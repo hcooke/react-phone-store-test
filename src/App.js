@@ -1,4 +1,4 @@
-// Start Video at 5:40:41 (set up cart subtotals)
+// Start Video at 6:05:03 (set up paypal button)
 
 import React from 'react';
 import { Switch, Route } from "react-router-dom";
